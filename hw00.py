@@ -5,7 +5,15 @@
 
 # Define main function 
 def main():
-	print("Hello, CSC110!"); # print a message
+	print("4"); # print a message
+	print("9");
+	print('4');
+	print('9');
+	print(4);
+	print(9);
+	print("4 + 9");
+	print('4 + 9');
+	print(4+9);
 
 
 # Run main if this script is being run 
